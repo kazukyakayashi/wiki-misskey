@@ -1,0 +1,37 @@
+site_name: Misskey.fr
+nav:
+    - Accueil: index.md
+    - Commencer avec Missskey:
+      - "Créer un compte":  getting-started/créer-un-compte.md
+      - "Configurer son compte": getting-started/configurer-son-compte.md
+      - "Les notes": getting-started/les-notes.md
+    - Guide avancé:
+        - "Les Listes & Antennes": guide-avance/les-listes-et antennes.md
+        - "Synthax MFM": guide-avance/synthax-mfm.md
+    - Personnalisation de Misskey:
+        - "Les thèmes": personnalisation/thème.md
+        - "CSS avec Stylus": personnalisation/css-stylus.md
+theme: 
+  name: 'material'
+  palette:
+    primary: 'green'
+    scheme: 'slate'
+    accent: 'green'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+extra:
+  search:
+    language: 'fr, en'
+plugins:
+  - search
+site_description: "Wiki francophone sur le fonctionnement du réseau social Misskey"
+site_author: "KazukyAkayashi"
+copyright: "Contenu sous licence CC-BY-SA, Servez vous !! 🎉"
