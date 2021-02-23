@@ -15,7 +15,7 @@ Misskey et les autres réseaux sociaux se connectent ensemble parce qu'ils font 
 
 ### Les réactions
 Réagissez aux posts. 
-Vous pouvez sélectionner une réactions et l'utiliser comme réponse au post.
+Vous pouvez sélectionner une réactions et l'utiliser comme réponse aux messages.
 
 Voir la pages sur [les réactions]()</center>
 
