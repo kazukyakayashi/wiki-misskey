@@ -3,26 +3,25 @@
 
 ## Écrire une note
 
-Lorsque vous appuyez sur le bouton <span class="fas fa-pencil-alt fa-1g text-primaryn" style="color:grey"></span> (*en haut  a droite*), un nouveau formulaire apparaît.
+Lorsque vous appuyez sur le bouton <i class="fas fa-pencil-alt"></i> (*en haut à droite*), un nouveau formulaire apparaît.
 
 <center>
-
-![note-002](https://wiki.misskey.fr/content/images/2020/06/note-002.png)
-
+![new note](/img/note-001.png)
 </center>
 
-<center>
+!!! Hint "Astuce"
+     Pour plus de simplicité vous pouvez aussi activer directement le champ de saisie pour les notes au dessous de la Timeline .
+     ![note](/img/note-002.png)
+     ![note](/img/note-003.png)
 
-![note](https://wiki.misskey.fr/content/images/2020/06/note.png)
-
-</center>
+![write note](/img/note-004.png)
 
 En haut
 
-1. <span class="fas fa-times fa-1g text-primaryn" style="color:grey"></span> : Fermer la fenêtre d'écriture de note
+1. <i class="fas fa-times"></i> : Fermer la fenêtre d'écriture de note
 2. Nombre de caractères autorisé par message[^1], avec un décompte visible en temps réel.
-3. <span class="fas fa-globe fa-1g text-primaryn" style="color:grey"></span> : Visibilité de votre note (*voir plus bas*).
-4. Note <span class="fas fa-paper-plane fa-1g text-primaryn" style="color:grey"></span> : Envoyer la note.
+3. <i class="fas fa-globe"></i> : Visibilité de votre note (*voir plus bas*).
+4. Note <i class="fas fa-paper-plane"></i> : Envoyer la note.
 
 Au milieu :
 
@@ -30,19 +29,18 @@ Au milieu :
 
 En bas :
 
-1. <span class="fas fa-photo-video fa-1g text-primaryn" style="color:grey"></span> : Ajouter un media (*image ou audio*), gère le glissé/déposé. 
-2. <span class="fas fa-chart-pie fa-1g text-primaryn" style="color:grey"></span> : Faire un sondage.
-3. <span class="fas fa-eye-slash fa-1g text-primaryn" style="color:grey"></span> : CW (*content warning*), cache le texte avec un avertissement.
-4. <span class="fas fa-at fa-1g text-primaryn" style="color:grey"></span> : Ajouter un destinataire a la note.
-5. <span class="fas fa-laugh-squint fa-1g text-primaryn" style="color:grey"></span> : Emojis
-6. <span class="fas fa-biohazard fa-1g text-primaryn" style="color:grey"></span> : Confinement, permet de confiner une note en local et qui ne sera pas distribuée sur le fediverse.
+1. <i class="fas fa-photo-video"></i> : Ajouter un media (*image ou audio*), gère le glissé/déposé. 
+2. <i class="fas fa-chart-pie" aria-hidden="true"></i> : Faire un sondage.
+3. <i class="fas fa-eye-slash" aria-hidden="true"></i> : CW (*content warning*), cache le texte avec un avertissement.
+4. <i class="fas fa-at"></i> : Ajouter un destinataire a la note.
+5. <i class="fas fa-laugh-squint"></i> : Emojis
 
 [^1]: La limite de caractères est différente pour chaque cas. Il peut y avoir une différence dans le décompte d'un caractère entre l'affichage du caractère et la reconnaissance du programme.
 [^2]:Si vous fermez le formulaire pendant que vous écrivez, vous pouvez reprendre votre note là où vous l'aviez laissé.
 
 ## Bien gérer la confidentialité de ses notes
 
-En haut de la fenêtre d'écriture de note, <span class="fas fa-globe fa-1g text-primaryn" style="color:grey"></span> permet de gérer la visibilité de votre note, c'est a dire qui pourra la voir.
+En haut de la fenêtre d'écriture de note, <i class="fas fa-globe"></i> permet de gérer la visibilité de votre note, c'est a dire qui pourra la voir.
 
 <center>
 
@@ -50,60 +48,45 @@ En haut de la fenêtre d'écriture de note, <span class="fas fa-globe fa-1g text
 
 </center>
 
-1. <span class="fas fa-globe fa-1g text-primaryn" style="color:grey"></span> : c'est a dire que cette note sera lisible de tout le fediverse.
-2. <span class="fas fa-home fa-1g text-primaryn" style="color:grey"></span> : Visible uniquement sur le fil local de l'instance, ne sera pas diffuser le le fil global de la fédération.
-3. <span class="fas fa-unlock fa-1g text-primaryn" style="color:grey"></span> : Visble uniquement par vos abonné(e)s.
-4. <span class="fas fa-envelope fa-1g text-primaryn" style="color:grey"></span> : Pour des messages privé avec juste les gens mentionné.
+1. <i class="fas fa-globe"></i> : c'est a dire que cette note sera lisible de tout le fediverse.
+2. <i class="fas fa-home"></i> : Visible uniquement sur le fil local de l'instance, ne sera pas diffuser le le fil global de la fédération.
+3. <i class="fas fa-unlock"></i> : Visble uniquement par vos abonné(e)s.
+4. <i class="fas fa-envelope"></i> : Pour des messages privé avec juste les gens mentionné.
+6. <i class="fas fa-biohazard"></i> : Confinement, permet de confiner une note en local et qui ne sera pas distribuée sur le fediverse.
 
-<div class="hint-warn">L'option <span class="fas fa-unlock fa-1g text-primaryn" style="color:grey"></span> est recommandé lorsque vous souhaitez avoir un compte privé (<i>vous pourrez toujours publier des notes publique au besoin</i>).</div>
+!!! info "Information"
+     L'option <i class="fas fa-unlock"></i> est recommandé lorsque vous souhaitez avoir un compte privé (<i>vous pourrez toujours publier des notes publique au besoin</i>).
 
-## Répondre à une note
+
+## Intéragir avec une note
+
+<center>![note reply](/img/note-006.png)</center>
+
+1. <i class="fas fa-reply"></i> : Pour répondre à une note cliquez sur cela ouvrira la fenêtre de rédaction de note.
+2. <i class="fas fa-retweet"></i> : Pour re-note une note. Le re-note permet de republier une note publiée par vous même ou un autre utilisateur.
+3. <i class="fas fa-plus"></i> : Pour ajouter une réaction.
+4. <i class="fas fa-ellipsis-h"></i> : Autres options.
+
+!!! info "Information"
+     Pour annuler un re-note il vous suffit de cliquer sur la date du renote et d'annuler ce dernier.
+     ![remove renote](/img/remove-renote.png)
+
+### Les réactions
+
+Pour  réagir a une note il vous suffit de cliquer sur le <i class="fas fa-plus"></i> pour affiche la liste des émojis disponible.
 
 <center>
-
-![note-003-1](https://wiki.misskey.fr/content/images/2020/06/note-003-1.png)
-
+![reactions](/img/misskey-reactions.png)
 </center>
 
-Pour répondre à une note cliquez sur <span class="fas fa-reply fa-1g text-primaryn" style="color:grey"></span> cela ouvrira la fenêtre de rédaction de note.
+Bien que vous poussiez ajouter d'ici n'importe qu'elle émoji en réaction, [vous pouvez configurer la liste des émojis](https://wiki.misskey.fr/getting-started/personnaliser-les-r%C3%A9actions/) disponible depuis les paramètres de compte pour plus de rapidité. 
 
-## Le re-note
-Le re-note permet de republier une note publiée par vous même ou un autre utilisateur.
+### Autres options
 
-<center>
-
-![note-003-1](https://wiki.misskey.fr/content/images/2020/06/note-003-1.png)
-
-</center>
-
-Pour  re-note un note il suffit de cliquer sur <span class="fas fa-retweet fa-1g text-primaryn" style="color:grey"></span> et valider votre action.
-
-Pour annuler un re-note il vous suffit de cliquer  sur la date du renote et d'annuler ce dernier.
+D'autres options sont disponibles via le menu <i class="fas fa-ellipsis-h"></i>, comme l'ajout de la note en favoris ou de copier le lmien de cette dernière.
 
 <center>
 
-![renote-001](https://wiki.misskey.fr/content/images/2020/06/renote-001.png)
-
-</center>
-
-## Les réactions
-
-Pour  réagir a une note il vous suffit de cliquer sur le <span class="fas fa-retweet fa-1g text-primaryn" style="color:grey"></span> pour affiche la liste des émojis disponible.
-
-<center>
-
-![note-006](https://wiki.misskey.fr/content/images/2020/06/note-006.png)
-
-</center>
-
-Bien qu vous pouvez ajouté d'ici n'importe qu'elle émoji en réaction, [vous pouvez configurer la liste des émojis](https://wiki.misskey.fr/getting-started/personnaliser-les-r%C3%A9actions/) disponible depuis les paramètres de compte pour plus de rapidité. 
-
-## Autres options
-
-D'autres options sont disponibles via le menu <span class="fas fa-ellipsis-h fa-1g text-primaryn" style="color:grey"></span> (*certaines options comme <span class="fas fa-bullhorn fa-1g text-primaryn" style="color:grey"></span> Promouvoir sont réservé au administrateurs et modérateur*)
-
-<center>
-
-![note-007](https://wiki.misskey.fr/content/images/2020/06/note-007.png)
+![others options](/img/note-options.png)
 
 </center>

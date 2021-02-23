@@ -19,13 +19,26 @@ theme:
     accent: 'green'
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+  font: false
+  language: fr
+  icon:
+    repo: fontawesome/brands/github-alt
+
+repo_url: https://github.com/kazukyakayashi/wiki-misskey
+repo_name: Github Wiki Misskey
 
 markdown_extensions:
+  - footnotes
   - admonition
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   search:
@@ -34,4 +47,7 @@ plugins:
   - search
 site_description: "Wiki francophone sur le fonctionnement du réseau social Misskey"
 site_author: "KazukyAkayashi"
-copyright: "Contenu sous licence CC-BY-SA, Servez vous !! 🎉"
+copyright: "Contenu sous GNU Free Documentation License, Servez vous !! 🎉"
+
+extra_css:
+  - stylesheets/extra.css

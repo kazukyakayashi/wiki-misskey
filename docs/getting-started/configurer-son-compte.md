@@ -27,7 +27,7 @@ Pour changer l'avatar il suffit de cliquer dessus et de faire de même pour chan
 
 Pour la partie écrite du **Profil**, il vous suffit de remplir les champs de vos plus beaux mots. Vous pouvez y mettre des hashtag, des emojis ... 😃
 
-Pour ce qui est des deux option `Ce compte est un robot` et `Ce compte est un chat`, la première ne vous sera pas utile sauf si vous le compte créer sert pour un bot, le seconde est une option marrante qui vous rajoutera des oreilles de chat sur votre avatar et `nyan` à certains mot 😅 inutile donc indispensable diront certains.
+Pour ce qui est des deux option `Ce compte est un robot` et `Ce compte est un chat`, la première ne vous sera pas utile sauf si vous le compte créer sert pour un bot, le seconde est une option marrante qui vous rajoutera des oreilles de chat sur votre avatar et `nyan` à certains mots 😅 inutile donc indispensable diront certains.
 
 ## Compte public & privé
 

@@ -5,7 +5,7 @@ Ce site a pour but de fournir une documentation d'utilisation complète pour le 
 Fonctionnant sur le principe du wiki, tout le monde peut l’améliorer et contribuer à sa rédaction.
 
 ## Qu'est-ce que Misskey
-Misskey et les autres réseaux sociaux se connectent ensemble parce qu'ils font partie de la Fédiverse (*un univers composé de différents réseaux sociaux : Mastodon, Pleroma, Pixelfed, Funkwhale ...*). Sur Misskey, vous pouvez discuter avec des gens et échanger des informations avec eux, comme sur n’importe quel autre service du genre.
+[Misskey](https://github.com/syuilo/misskey) système de micro-blogging qui est connecté au Fédiverse (*un univers composé de différents réseaux sociaux : Mastodon, Pleroma, Pixelfed, Funkwhale ...*). Sur Misskey, vous pouvez discuter avec des gens et échanger des informations avec eux, comme sur n’importe quel autre service du genre.
 
 <center>Envie de tester ? De voir à quoi ressemble la Fediverse ?
 
@@ -29,7 +29,3 @@ Décorez vos notes, vos pages, ainsi que votre profil ! Le formatage se fait gr�
 - Messagerie instantanée 
 - Pages 
 - ...
-
-## Autres ressources officielles
-
-- [Le GitHub de Misskey](https://github.com/syuilo/misskey)
