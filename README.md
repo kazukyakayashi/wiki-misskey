@@ -7,7 +7,7 @@
 ## Dependances
 
 - mkdocs
-- [mkdoc-material](https://squidfunk.github.io/mkdocs-material/)
+- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 - mkdocs-material-extensions
 - mkdocs-minify-plugin
 - pymdown-extensions
