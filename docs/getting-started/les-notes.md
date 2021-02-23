@@ -14,7 +14,7 @@ Lorsque vous appuyez sur le bouton <i class="fas fa-pencil-alt"></i> (*en haut �
      ![note](/img/note-002.png)
      ![note](/img/note-003.png)
 
-![write note](/img/note-004.png)
+<center>![write note](/img/note-004.png)</center>
 
 En haut
 
@@ -42,11 +42,7 @@ En bas :
 
 En haut de la fenêtre d'écriture de note, <i class="fas fa-globe"></i> permet de gérer la visibilité de votre note, c'est a dire qui pourra la voir.
 
-<center>
-
-![note-004](https://wiki.misskey.fr/content/images/2020/06/note-004.png)
-
-</center>
+<center>![note-004](https://wiki.misskey.fr/content/images/2020/06/note-004.png)</center>
 
 1. <i class="fas fa-globe"></i> : c'est a dire que cette note sera lisible de tout le fediverse.
 2. <i class="fas fa-home"></i> : Visible uniquement sur le fil local de l'instance, ne sera pas diffuser le le fil global de la fédération.

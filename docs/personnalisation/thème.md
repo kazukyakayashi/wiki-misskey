@@ -2,6 +2,6 @@
 
 ## Liste de thèmes
 
-- [Cherry]() par [Kazuky Akayashi]()
-- [Nord]() par [Kazuky Akayashi]()
-- [Nebula]() par [Kazuky Akayashi]()
+- [Cherry](https://github.com/kazukyakayashi/misskey-cherry-theme) par [Kazuky Akayashi](https://meow.zarchbox.fr/@KazukyAkayashi)
+- [Nord](https://github.com/kazukyakayashi/misskey-nord-theme) par [Kazuky Akayashi](https://meow.zarchbox.fr/@KazukyAkayashi)
+- [Nebula](https://github.com/kazukyakayashi/misskey-nebula-theme) par [Kazuky Akayashi](https://meow.zarchbox.fr/@KazukyAkayashi)
