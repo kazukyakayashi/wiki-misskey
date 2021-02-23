@@ -16,12 +16,12 @@ Aller sur la partie ou il y a l'avatar et le pseudo, puis paramètre de compte.
 ![misskey-home](/img/param-compte.png)
 </center>
 
-Pour commencer ce sont les deux premiere partie de la page qui vont nous intéresser.
+Pour commencer ce sont les deux premières parties de la page qui vont nous intéresser.
 
-<center>
-*Un exemple de configuration de compte*
-![misskey-home](/img/param-compte-002.png)
-</center>
+<figure>
+  <img src="/img/param-compte-002.png" />
+  <figcaption>Un exemple de configuration de compte</figcaption>
+</figure>
 
 Pour changer l'avatar il suffit de cliquer dessus et de faire de même pour changer la banière.
 
@@ -29,7 +29,7 @@ Pour la partie écrite du **Profil**, il vous suffit de remplir les champs de vo
 
 Pour ce qui est des deux option `Ce compte est un robot` et `Ce compte est un chat`, la première ne vous sera pas utile sauf si vous le compte créer sert pour un bot, le seconde est une option marrante qui vous rajoutera des oreilles de chat sur votre avatar et `nyan` à certains mots 😅 inutile donc indispensable diront certains.
 
-## Compte public & privé
+### Compte public & privé
 
 Vous trouverez tout le neccessaire pour cela dans l'onglet `Confidentialité`
 
