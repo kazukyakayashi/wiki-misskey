@@ -10,7 +10,7 @@ Lorsque vous appuyez sur le bouton <i class="fas fa-pencil-alt"></i> (*en haut �
 </center>
 
 !!! Hint "Astuce"
-     Pour plus de simplicité vous pouvez aussi activer directement le champ de saisie pour les notes au dessous de la Timeline .
+     Pour plus de simplicité vous pouvez aussi activer directement le champ de saisie pour les notes au dessous de vos Flux .
      ![note](/img/note-002.png)
      ![note](/img/note-003.png)
 
@@ -19,13 +19,13 @@ Lorsque vous appuyez sur le bouton <i class="fas fa-pencil-alt"></i> (*en haut �
 En haut
 
 1. <i class="fas fa-times"></i> : Fermer la fenêtre d'écriture de note
-2. Nombre de caractères autorisé par message[^1], avec un décompte visible en temps réel.
+2. Nombre de caractères autorisé par message, avec un décompte visible en temps réel.
 3. <i class="fas fa-globe"></i> : Visibilité de votre note (*voir plus bas*).
 4. Note <i class="fas fa-paper-plane"></i> : Envoyer la note.
 
 Au milieu :
 
-1. Écrivez votre note [^2].
+1. Écrivez votre note.
 
 En bas :
 
@@ -35,14 +35,14 @@ En bas :
 4. <i class="fas fa-at"></i> : Ajouter un destinataire a la note.
 5. <i class="fas fa-laugh-squint"></i> : Emojis
 
-[^1]: La limite de caractères est différente pour chaque cas. Il peut y avoir une différence dans le décompte d'un caractère entre l'affichage du caractère et la reconnaissance du programme.
-[^2]:Si vous fermez le formulaire pendant que vous écrivez, vous pouvez reprendre votre note là où vous l'aviez laissé.
+!!! hint "Astuce"
+     Si vous fermez le formulaire pendant que vous écrivez, vous pouvez reprendre votre note là où vous l'aviez laissé.
 
 ## Bien gérer la confidentialité de ses notes
 
-En haut de la fenêtre d'écriture de note, <i class="fas fa-globe"></i> permet de gérer la visibilité de votre note, c'est a dire qui pourra la voir.
+En haut de la fenêtre d'écriture de note, <i class="fas fa-globe"></i> permet de gérer la visibilité de votre note, c'est à dire qui pourra la voir.
 
-<center>![note-004](https://wiki.misskey.fr/content/images/2020/06/note-004.png)</center>
+<center>![note privacy](/img/note-005.png)</center>
 
 1. <i class="fas fa-globe"></i> : c'est a dire que cette note sera lisible de tout le fediverse.
 2. <i class="fas fa-home"></i> : Visible uniquement sur le fil local de l'instance, ne sera pas diffuser le le fil global de la fédération.
@@ -75,14 +75,27 @@ Pour  réagir a une note il vous suffit de cliquer sur le <i class="fas fa-plus"
 ![reactions](/img/misskey-reactions.png)
 </center>
 
-Bien que vous poussiez ajouter d'ici n'importe qu'elle émoji en réaction, [vous pouvez configurer la liste des émojis](https://wiki.misskey.fr/getting-started/personnaliser-les-r%C3%A9actions/) disponible depuis les paramètres de compte pour plus de rapidité. 
+Bien que vous poussiez ajouter d'ici n'importe qu'elle émoji en réaction, [vous pouvez configurer la liste des émojis](../personnalisation/reactions.md) disponible depuis les paramètres de compte pour plus de rapidité. 
 
 ### Autres options
 
 D'autres options sont disponibles via le menu <i class="fas fa-ellipsis-h"></i>, comme l'ajout de la note en favoris ou de copier le lmien de cette dernière.
 
-<center>
+<center>![others options](/img/note-options.png)</center>
 
-![others options](/img/note-options.png)
+## Naviguer entre les différents Flux, Listes et Antennes
 
-</center>
+<figure>
+  <img src="/img/note-007.png" />
+  <figcaption>La barre de navigation</figcaption>
+</figure>
+
+1. <i class="fas fa-home"></i> : Votre Flux (*ou Timeline*) personnel avec uniquement le contenu des gens que vous suivez (*inclu les re-note et réponses à d'autres notes de gens que vous ne suivez pas forcément*)
+2. <i class="fas fa-comment"></i> Le Flux locale de votre instance, avec uniquement le contenu des gens présent sur l'instance.
+3. <i class="fas fa-share-alt"></i> ???
+4. <i class="fas fa-globe"></i> Le Flux global, c'est là que la Fediverse se rejoint, contient tout ce que votre instance peut récupérer du fédiverse.
+5. <i class="fas fa-at"></i> Contient uniquement les messages où vous êtes mentionné.
+6. <i class="far fa-envelope"></i> Ici seront rapatriés vos messages privés.
+7. <i class="fas fa-satellite-dish"></i> Pour voir les flux des différents Canaux auquels vous êtes abonné.
+8. <i class="fas fa-satellite"></i> Suivre flux de vos [Antennes](/guide-avance/les-listes-et antennes/).
+9. <i class="fas fa-list-ul"></i> Le flux pours vos [Listes](/guide-avance/les-listes-et antennes/).

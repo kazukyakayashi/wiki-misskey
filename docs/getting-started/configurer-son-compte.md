@@ -35,8 +35,8 @@ Vous trouverez tout le neccessaire pour cela dans l'onglet `Confidentialité`
 
 ![Misskey privacy](/img/misskey-privacy.png)
 
-## Clôturer son compte
+### Clôturer son compte
 
-Pour clôturer son il compte il faut se rendre dans l'onglet `Autres`
+Pour clôturer son compte il faut se rendre dans l'onglet `Autres`
 
 ![Misskey delete account](/img/misskey-delete-account.png)

@@ -17,7 +17,7 @@ Fonctionnant sur le principe du wiki, tout le monde peut l’améliorer et contr
 Réagissez aux posts. 
 Vous pouvez sélectionner une réactions et l'utiliser comme réponse aux messages.
 
-Voir la pages sur [les réactions]()</center>
+Voir la pages sur [les réactions](personnalisation/reactions.md)
 
 ### Formatage du texte
 Décorez vos notes, vos pages, ainsi que votre profil ! Le formatage se fait grâce au [« Misskey Flavored Markdown » (MFM)](guide-avance/synthax-mfm/).

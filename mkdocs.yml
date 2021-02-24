@@ -9,6 +9,7 @@ nav:
         - "Les Listes & Antennes": guide-avance/les-listes-et antennes.md
         - "Synthax MFM": guide-avance/synthax-mfm.md
     - Personnalisation de Misskey:
+        - "Les réactions": personnalisation/reactions.md
         - "Les thèmes": personnalisation/thème.md
         - "CSS avec Stylus": personnalisation/css-stylus.md
 theme: 

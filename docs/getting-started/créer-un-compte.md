@@ -1,10 +1,11 @@
 ## Créer un compte
 
-> Ces instructions seront valable pour tout autre instance Misskey.
-
 Pour cela commencez par vous rentre sur [le site de l'instance Misskey.fr](https://misskey.fr) par exemple.
 
-![misskey-home](/img/misskey-001.png)
+<figure>
+  <img src="/img/misskey-001.png" />
+  <figcaption>Page d'accueil de Misskey</figcaption>
+</figure>
 
 Puis cliquez sur `S'inscrire`
 
@@ -19,5 +20,5 @@ Dans le formulaire qui s’affiche, indiquez l’identifiant que vous souhaitez 
 </center>
 
 <center>
-✨🌍✨ Ça y est, vous êtes connecté·e ✨🚀✨
+✨🌍✨ Ça y est, vous êtes connecté·e ✨🌍✨
 </center>
