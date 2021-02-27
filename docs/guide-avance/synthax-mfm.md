@@ -1,3 +1,6 @@
+!!! Warning "Attention !!"
+     Misskey étant en constante évolution, certains éléments peuvent avoir changé.
+
 # Synthax MFM
 
 Misskey supporte le markdown, mais utilise surtout le MFM.
