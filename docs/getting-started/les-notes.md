@@ -90,12 +90,12 @@ D'autres options sont disponibles via le menu <i class="fas fa-ellipsis-h"></i>,
   <figcaption>La barre de navigation</figcaption>
 </figure>
 
-1. <i class="fas fa-home"></i> : Votre Flux (*ou Timeline*) personnel avec uniquement le contenu des gens que vous suivez (*inclu les re-note et réponses à d'autres notes de gens que vous ne suivez pas forcément*)
-2. <i class="fas fa-comment"></i> Le Flux locale de votre instance, avec uniquement le contenu des gens présent sur l'instance.
-3. <i class="fas fa-share-alt"></i> ???
-4. <i class="fas fa-globe"></i> Le Flux global, c'est là que la Fediverse se rejoint, contient tout ce que votre instance peut récupérer du fédiverse.
+1. <i class="fas fa-home"></i> : Votre Fil (*ou Timeline*) personnel avec uniquement le contenu des gens que vous suivez (*inclu les re-note et réponses à d'autres notes de gens que vous ne suivez pas forcément*)
+2. <i class="fas fa-comment"></i> Le Fil locale de votre instance, avec uniquement le contenu des gens présent sur l'instance.
+3. <i class="fas fa-share-alt"></i> Regroupe le fil principal <i class="fas fa-home"></i> et le fil local <i class="fas fa-comment"></i>.
+4. <i class="fas fa-globe"></i> Le Fil global, c'est là que la Fediverse se rejoint, contient tout ce que votre instance peut récupérer du fédiverse.
 5. <i class="fas fa-at"></i> Contient uniquement les messages où vous êtes mentionné.
 6. <i class="far fa-envelope"></i> Ici seront rapatriés vos messages privés.
-7. <i class="fas fa-satellite-dish"></i> Pour voir les flux des différents Canaux auquels vous êtes abonné.
-8. <i class="fas fa-satellite"></i> Suivre flux de vos [Antennes](/guide-avance/les-listes-et antennes/).
-9. <i class="fas fa-list-ul"></i> Le flux pours vos [Listes](/guide-avance/les-listes-et antennes/).
+7. <i class="fas fa-satellite-dish"></i> Pour voir les différents Canaux auquels vous êtes abonné.
+8. <i class="fas fa-satellite"></i> Suivre vos [Antennes](/guide-avance/les-listes-et antennes/) avec un fil dédié à chacunes.
+9. <i class="fas fa-list-ul"></i> Le fil pour vos [Listes](/guide-avance/les-listes-et antennes/).
