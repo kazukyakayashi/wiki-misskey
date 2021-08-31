@@ -12,7 +12,7 @@ nav:
     - Personnalisation de Misskey:
         - "Les réactions": personnalisation/reactions.md
         - "Les thèmes": personnalisation/thème.md
-        - "CSS avec Stylus": personnalisation/css-stylus.md
+        - "CSS personnalisé": personnalisation/custom-css.md
 theme: 
   name: 'material'
   palette:
