@@ -1,1 +1,12 @@
 @import url("/assets-fontawesome/css/all.css");
+
+h2 {
+    color: #4cae4f;
+}
+
+h2:before {
+    padding-right: 10px;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    color: #4cae4f;
+}
