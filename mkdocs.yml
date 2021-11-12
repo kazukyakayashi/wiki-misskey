@@ -5,7 +5,7 @@ nav:
       - "Créer un compte":  getting-started/créer-un-compte.md
       - "Configurer son compte": getting-started/configurer-son-compte.md
       - "Les notes": getting-started/les-notes.md
-      - "Comptes & Abonnments": getting-started/comptes-et-abonnements.md
+      - "Comptes & Abonnements": getting-started/comptes-et-abonnements.md
     - Guide avancé:
         - "Les Listes & Antennes": guide-avance/les-listes-et antennes.md
         - "Synthax MFM": guide-avance/synthax-mfm.md
